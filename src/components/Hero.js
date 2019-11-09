@@ -17,7 +17,7 @@ const Hero = ({resumeObj}) =>{
         
         <div className="hero__link-container">
           <a
-            href="https://github.com/luism3861"
+            href="https://github.com/luism3861/resume-react"
             target="_blank"
             rel="noopener noreferrer"
             className="hero__link"
