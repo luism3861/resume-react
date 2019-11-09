@@ -1,0 +1,96 @@
+{
+    "basics": {
+      "name": "Luis Medina",
+      "label": "Frontend Engineer",
+      "email": "luism3861@gmail.com",
+      "phone": "(609) 666-4644",
+      "website": "linkedin.com/in/luism3861/",
+      "summary": "Developer appasionate to learning  new technologies",
+      "location": {
+        "postalCode": "93101",
+        "city": "Guadalajara, MX",
+        "countryCode": "US",
+        "region": "SD"
+      },
+      "pdf": "resume.pdf"
+    },
+    "work": [
+      {
+        "company": "Freelance",
+        "current": false,
+        "position": "Frontend Engineer",
+        "startDate": "August 2017",
+        "endDate": "January 2019",
+        "summary": "Various projects utilizing ES6, Gatsby, Sass and WordPress.",
+        "highlights": [
+          "Improved client's development workflow by incorpating modern tools like: Webpack, Gulp, ESLint, Prettier, Jest, Ansible and others.",
+          "Ensure that the developing codebase conforms to best practices with regard to coding standards.",
+          "A/B tested multiple CTA components and improved conversions by 23%"
+        ]
+      },
+      {
+        "company": "Recovery Brands",
+        "current": false,
+        "position": "Frontend Engineer",
+        "website": "https://www.recoverybrands.com",
+        "startDate": "May 2013",
+        "endDate": "June 2017",
+        "summary": "Add features and fix bugs for Recovery Brands network of websites.",
+        "highlights": [
+          "Built \"Recovery Brands\" Sass framework, its automated build process, and documentation.",
+          "Implemented structured data markup across multiple websites of \"Recovery Brands\" network, which led to a 5% increase in CTR.",
+          "Consistently took part in adding new features for a network of 20+ WordPress websites (such as Rehabs.com) with a total amount of 5m+ visitors per month.",
+          "Ran workshops and talks on CSS & Sass architecture for the team of 5 frontend developers."
+        ]
+      },
+      {
+        "company": "Udacity",
+        "current": false,
+        "position": "Frontend Developer [Remote]",
+        "website": "https://www.udacity.com",
+        "startDate": "April 2016",
+        "endDate": "August 2016",
+        "summary": "Sass architecture and development of Udacity Blitz React app.",
+        "highlights": [
+          "Frontend Sass development with the focus on reusability and cross-browser compatibility.",
+          "Implemented the Udacity Blitz UI kit using Sass.",
+          "Implemented UI atoms."
+        ]
+      }
+    ],
+    "education": [{
+      "institution": "The Russian Presidential Academy of National Economy and Public Administration (RANEPA)",
+      "area": "Business Administration and Management",
+      "studyType": "Master's degree",
+      "endDate": "2013"
+    }],
+    "skills": {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES6",
+        "React",
+        "Gatsby",
+        "Node",
+        "Sass",
+        "Git",
+        "WordPress",
+        "REST APIs",
+        "Ansible",
+        "Vagrant",
+        "Virtual Box",
+        "Jenkins",
+        "Jest",
+        "Jasmine",
+        "Mocha",
+        "Phantom",
+        "Firebase",
+        "TypeScript",
+        "Linux",
+        "Mac OS",
+        "Liquid"
+      ]
+    }
+  }
+  
