@@ -36,7 +36,6 @@ const App = ({resumeJson}) => {
               <NavLink exact to={'/'} className="nav__btn">Experience</NavLink>
               <NavLink to={'/skills'} className="nav__btn">Skills</NavLink>
               <NavLink to={'/education'} className="nav__btn">Education</NavLink>
-              <NavLink to={'/basics'} className="nav__btn">Contact</NavLink>
             </nav>
           </ul>
         </div>

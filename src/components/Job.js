@@ -13,16 +13,15 @@ const Job = ({details,colors})  =>{
               {
                 details.current ? 
                 `Current Job as of ${details.startDate}` : 
-                `${details.startDate} to ${details.endDate}`
+                `${details.startDate} - ${details.endDate}`
               }
             </div>
             <br/>
           
-            <p className="job__paragraph">{details.summary}</p>
             <ul className="job__list">
               {
                 details.highlights.map((key, index) => {
-                  return <li key={index}>{details.highlights[index]}</li>
+                  return <li key={index} classNam="job__list__style" >{details.highlights[index]}</li>
                 })
               }
             </ul>

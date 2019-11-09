@@ -24,7 +24,7 @@ const Contact = ({ info }) => {
             <a style={{ textDecoration: "none" }}>{info.email}</a>
           </h3>
 
-          <h3>
+          <h3 className="contact__container">
             <a
               href="https://www.linkedin.com/in/luism3861/"
               style={{ textDecoration: "none" }}

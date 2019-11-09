@@ -3,12 +3,12 @@
       "name": "Luis Medina",
       "label": "Frontend Engineer",
       "email": "luism3861@gmail.com",
-      "phone": "(609) 666-4644",
+      "phone": "+52 3311057425",
       "website": "linkedin.com/in/luism3861/",
       "summary": "Developer appasionate to learning  new technologies",
       "location": {
         "postalCode": "93101",
-        "city": "Guadalajara, MX",
+        "city": "Developer",
         "countryCode": "US",
         "region": "SD"
       },
@@ -16,80 +16,62 @@
     },
     "work": [
       {
-        "company": "Freelance",
+        "company": "Mariachi IO SA DE CV",
         "current": false,
         "position": "Frontend Engineer",
-        "startDate": "August 2017",
-        "endDate": "January 2019",
-        "summary": "Various projects utilizing ES6, Gatsby, Sass and WordPress.",
+        "startDate": "April 2019",
+        "endDate": "November 2019",
+        "summary": "Finero Pay Project with React Native",
         "highlights": [
-          "Improved client's development workflow by incorpating modern tools like: Webpack, Gulp, ESLint, Prettier, Jest, Ansible and others.",
-          "Ensure that the developing codebase conforms to best practices with regard to coding standards.",
-          "A/B tested multiple CTA components and improved conversions by 23%"
+          "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux Authentication, React Native, Express.",
+          "As a Front End Developer, I developed with my team hybrid app with react native for both platforms IOS and Android, i developed some parts of UI with functionality and some authentication for tokens and implement services in the front-end for the task and features, i used jira and bit bucker for manage agile and software development"
         ]
       },
+  
       {
-        "company": "Recovery Brands",
+        "company": "Courses:",
         "current": false,
-        "position": "Frontend Engineer",
-        "website": "https://www.recoverybrands.com",
-        "startDate": "May 2013",
-        "endDate": "June 2017",
-        "summary": "Add features and fix bugs for Recovery Brands network of websites.",
-        "highlights": [
-          "Built \"Recovery Brands\" Sass framework, its automated build process, and documentation.",
-          "Implemented structured data markup across multiple websites of \"Recovery Brands\" network, which led to a 5% increase in CTR.",
-          "Consistently took part in adding new features for a network of 20+ WordPress websites (such as Rehabs.com) with a total amount of 5m+ visitors per month.",
-          "Ran workshops and talks on CSS & Sass architecture for the team of 5 frontend developers."
-        ]
-      },
-      {
-        "company": "Udacity",
-        "current": false,
-        "position": "Frontend Developer [Remote]",
+        "position": "",
         "website": "https://www.udacity.com",
-        "startDate": "April 2016",
-        "endDate": "August 2016",
-        "summary": "Sass architecture and development of Udacity Blitz React app.",
+        "startDate":"",
+        "endDate": "",
         "highlights": [
-          "Frontend Sass development with the focus on reusability and cross-browser compatibility.",
-          "Implemented the Udacity Blitz UI kit using Sass.",
-          "Implemented UI atoms."
+          "Node JS(Udemy)",
+          "Dev f Course",
+          "Javascript (Udemy)",
+          "React (Udemy)"
         ]
       }
     ],
     "education": [{
-      "institution": "The Russian Presidential Academy of National Economy and Public Administration (RANEPA)",
-      "area": "Business Administration and Management",
-      "studyType": "Master's degree",
-      "endDate": "2013"
+      "institution": "Centro Universitario De Monterrey(University of Guadalajara)",
+      "area": "Computer Engineer",
+     
+      "endDate": "December 2018"
     }],
     "skills": {
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "ES6",
         "React",
-        "Gatsby",
+        "Javascript",
+        "CSS3",
+        "ES6",
+        "HTML 5",
         "Node",
         "Sass",
         "Git",
-        "WordPress",
+        "Express",
         "REST APIs",
-        "Ansible",
-        "Vagrant",
-        "Virtual Box",
-        "Jenkins",
-        "Jest",
-        "Jasmine",
-        "Mocha",
-        "Phantom",
-        "Firebase",
-        "TypeScript",
-        "Linux",
-        "Mac OS",
-        "Liquid"
+        "Docker",
+        "Unix",
+        "React Native",
+        "Web Development",
+        "Mongo DB",
+        "MVC",
+        "Redux",
+        "OOP",
+        "Node JS",
+        "SQL",
+        "Functional Programming"
       ]
     }
   }

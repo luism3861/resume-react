@@ -21,6 +21,7 @@
 
 .nav {
   text-align: center;
+  margin-left: 25px;
 }
 
 .nav__btn {
@@ -33,6 +34,7 @@
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
   text-decoration: none;
   font-weight: 600;
+  
 }
 
 /*
@@ -65,6 +67,10 @@
   font-size:17px
 }
 
+.style__phone{
+  margin-top: 15px
+}
+
 .hero__text {
   margin: 10px 0;
   font-weight: 700;
@@ -76,12 +82,28 @@
   vertical-align: middle;
   animation: hero-logo infinite 3s linear;
   margin-left:20px;
+  margin-top: 10px
 } 
 
+.github__logo{
+  color: black
+}
+
+.logo__container{
+ margin-top: 30px;
+ display: flex;
+ justify-content: space-around;
+ width: 140px;
+ margin-right:55px
+}
+
+
 .hero__image{
-  width:60%;
-  border-radius: 120px;
+  width:190px;
+  height: 190px;
+  border-radius:50%;
   margin-bottom: 30px;
+  margin-top: 30px;
   border:3px solid rgb(219, 219, 219);
 }
 
@@ -95,17 +117,7 @@
   }
 }
 
-.hero__arrow {
-  display: inline-block;
-  position: absolute;
-  left: calc(50% - 20px);
-  bottom: 20px;
-  font-size: 40px;
-  animation-duration: 1.5s;
-  animation-fill-mode: both;
-  animation-iteration-count: infinite;
-  animation-name: hero-arrow;
-}
+
 
 @keyframes hero-arrow {
   from {
@@ -157,6 +169,11 @@
   font-style: italic;
 }
 
+
+.job__list{
+ margin:10px
+}
+
 /*
  * SKILLS
  */
@@ -196,6 +213,17 @@
 
 .education__subheader {
   margin-bottom: 20px;
+  font-size:20px;
+}
+
+.education__area{
+  font-size:20px;
+  margin-top:10px;
+}
+
+.education__graduated{
+  font-size: 20px;
+  margin-top:10px
 }
 
 /*
@@ -203,6 +231,10 @@
  */
 .contact__header {
   color: #4a4a4a;
+}
+
+.contact__container{
+  margin-top: 10px;
 }
 
 /*
@@ -246,9 +278,7 @@
     display: none;
   }
 
-  .hero__arrow {
-    display: none;
-  }
+
 }
 
 @media (max-width: 990px) {
@@ -315,9 +345,7 @@
     height: 100vh;
   }
 
-  .hero__arrow {
-    display: none;
-  }
+  
 
   .card__container {
     height: 100vh;
@@ -348,9 +376,7 @@
     display: none;
   }
 
-  .hero__arrow {
-    display: none;
-  }
+ 
 }
 
 @media only screen and (orientation: landscape) and (min-width: 820px) {
@@ -358,13 +384,5 @@
     display: block;
   }
 
-  .hero__arrow {
-    display: block;
-  }
 }
 
-@media only screen and (orientation: landscape) and (min-width: 991px) {
-  .hero__arrow {
-    display: none;
-  }
-}

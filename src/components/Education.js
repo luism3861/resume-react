@@ -8,8 +8,8 @@ const Education = ({education}) => {
           <h1 className="education__header">Education</h1>
           <div className="education__text">
             <h4 className="education__subheader">{education.institution}</h4>
-            <h5>{education.studyType} in {education.area}</h5>
-            <h5>Graduated {education.endDate}</h5>
+            <h5 className="education__area">{education.area}</h5>
+            <h5 className="education__graduated">Graduated {education.endDate}</h5>
           </div>
         </div>
       </div>
