@@ -21,7 +21,7 @@
         "position": "Frontend Engineer",
         "startDate": "April 2019",
         "endDate": "November 2019",
-        "summary": "Finero Pay Project with React Native",
+        "summary": "Finero Pay Project",
         "highlights": [
           "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux Authentication, React Native, Express.",
           "As a Front End Developer, I developed with my team a hybrid app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development"

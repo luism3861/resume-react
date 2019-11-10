@@ -17,6 +17,8 @@ const Job = ({details,colors})  =>{
               }
             </div>
             <br/>
+
+            <h3>{details.summary}</h3>
           
             <ul className="job__list">
               {
