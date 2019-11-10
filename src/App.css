@@ -71,6 +71,11 @@
   margin-top: 15px
 }
 
+.hero__link-container{
+  margin-top: 10px;
+}
+
+
 .hero__text {
   margin: 10px 0;
   font-weight: 700;

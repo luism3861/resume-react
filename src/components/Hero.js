@@ -27,16 +27,8 @@ const Hero = ({resumeObj}) =>{
         <h3 className="style__phone">{resumeObj.basics.email}</h3>
         <h3 className="style__phone">{resumeObj.basics.phone}</h3>
         <div className="hero__link-container">
-          <a
-            href="https://github.com/luism3861/resume-react"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hero__link"
-          >
             made with 
             <img src={logo} className="hero__logo" alt="Made With React Logo"/>
-          </a>
-          
         </div>
         <div className="logo__container">
        <a href="https://github.com/luism3861" className="github__logo" target="_blank" rel="noopener noreferrer" ><i class="fab fa-github fa-2x"></i></a>
