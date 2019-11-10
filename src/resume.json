@@ -24,7 +24,7 @@
         "summary": "Finero Pay Project with React Native",
         "highlights": [
           "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux Authentication, React Native, Express.",
-          "As a Front End Developer, I developed with my team hybrid app with react native for both platforms IOS and Android, i developed some parts of UI with functionality and some authentication for tokens and implement services in the front-end for the task and features, i used jira and bit bucker for manage agile and software development"
+          "As a Front End Developer, I developed with my team a hybrid app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development"
         ]
       },
   
@@ -36,10 +36,9 @@
         "startDate":"",
         "endDate": "",
         "highlights": [
-          "Node JS(Udemy)",
           "Dev f Course",
-          "Javascript (Udemy)",
-          "React (Udemy)"
+          "Node JS (Udemy)",
+          "Javascript (Udemy)"
         ]
       }
     ],
@@ -57,7 +56,7 @@
         "ES6",
         "HTML 5",
         "Node",
-        "Sass",
+        "Webpack",
         "Git",
         "Express",
         "REST APIs",
@@ -71,7 +70,7 @@
         "OOP",
         "Node JS",
         "SQL",
-        "Functional Programming"
+        "Babel"
       ]
     }
   }
