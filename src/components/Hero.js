@@ -1,13 +1,9 @@
 import React from 'react';
 import logo from '../logo.svg';
-import luis from '../image.png'
 
 const Hero = ({resumeObj}) =>{  
     return (
       <div className="hero">
-       <div className="hero__image__container">
-       <img src={luis} alt="hola" className="hero__image"/>
-       </div>
         <h1 className="hero__header">{resumeObj.basics.name}</h1>
         
         <h4 className="hero__subheader">

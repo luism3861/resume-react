@@ -1,10 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Skill from './Skill';
 
-class SkillsList extends Component {
-  render() {
-    const { skills } = this.props.resumeObj;
-  
+const SkillsList = ({resumeObj}) =>{
     return (
       <div
         className="skills-list__container"
@@ -15,14 +12,13 @@ class SkillsList extends Component {
           <br />
           <ul className="skills-list">
             {
-              skills.keywords
-                .map((key, index) => <Skill key={key} details={skills.keywords[index]}/>)
+              resumeObj.skills.keywords
+                .map((key, index) => <Skill key={key} details={resumeObj.skills.keywords[index]}/>)
             }
           </ul>
         </div>
       </div>
     );
-  }
 }
 
 export default SkillsList;
