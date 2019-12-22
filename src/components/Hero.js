@@ -5,7 +5,7 @@ import wicho from "../wicho.jpg";
 const Hero = ({ resumeObj }) => {
   return (
     <div className="hero">
-      <img src={wicho} alt="hola" className="image__profile" />
+      <img src={wicho} alt="profile" className="image__profile" />
       <h1 className="hero__header">{resumeObj.basics.name}</h1>
 
       <h4 className="hero__subheader">{resumeObj.basics.location.city}</h4>
