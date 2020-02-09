@@ -1,77 +1,70 @@
 {
-    "basics": {
-      "name": "Luis Medina",
-      "label": "Frontend Engineer",
-      "email": "luism3861@gmail.com",
-      "phone": "+52 3311057425",
-      "website": "linkedin.com/in/luism3861/",
-      "summary": "Developer appasionate to learning  new technologies",
-      "location": {
-        "postalCode": "93101",
-        "city": "Developer",
-        "countryCode": "US",
-        "region": "SD"
-      },
-      "pdf": "resume.pdf"
+  "basics": {
+    "name": "Luis Medina",
+    "label": "Frontend Engineer",
+    "email": "luism3861@gmail.com",
+    "phone": "+52 3311057425",
+    "website": "linkedin.com/in/luism3861/",
+    "summary": "Developer appasionate to learning  new technologies",
+    "skill": "Developer",
+    "pdf": "resume.pdf"
+  },
+  "work": [{
+      "company": "Mariachi IO SA DE CV",
+      "current": false,
+      "position": "FrontEnd Engineer",
+      "startDate": "April 2019",
+      "endDate": "November 2019",
+      "summary": "Finero Pay Project",
+      "highlights": [
+        "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux, Authentication, React Native, Express.",
+        "As a Front End Developer, I developed with my team a app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development"
+      ]
     },
-    "work": [
-      {
-        "company": "Mariachi IO SA DE CV",
-        "current": false,
-        "position": "FrontEnd Engineer",
-        "startDate": "April 2019",
-        "endDate": "November 2019",
-        "summary": "Finero Pay Project",
-        "highlights": [
-          "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux, Authentication, React Native, Express.",
-          "As a Front End Developer, I developed with my team a app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development"
-        ]
-      },
-  
-      {
-        "company": "Courses:",
-        "current": false,
-        "position": "",
-        "website": "https://www.udacity.com",
-        "startDate":"",
-        "endDate": "",
-        "highlights": [
-          "Dev f Course",
-          "Node JS (Udemy)",
-          "Javascript (Udemy)"
-        ]
-      }
-    ],
-    "education": [{
-      "institution": "Centro Universitario De Monterrey(University of Guadalajara)",
-      "area": "Computer Engineer",
-     
-      "endDate": "December 2018"
-    }],
-    "skills": {
-      "keywords": [
-        "React",
-        "Javascript",
-        "CSS3",
-        "ES6",
-        "HTML 5",
-        "Node Js",
-        "Webpack",
-        "Git",
-        "Express",
-        "REST APIs",
-        "Docker",
-        "Unix",
-        "React Native",
-        "Web Development",
-        "Mongo DB",
-        "MVC",
-        "Redux",
-        "OOP",
-        "Mobile Development",
-        "SQL",
-        "Babel"
+
+    {
+      "company": "Courses:",
+      "current": false,
+      "position": "",
+      "website": "https://www.udacity.com",
+      "startDate": "",
+      "endDate": "",
+      "highlights": [
+        "Dev f Course",
+        "Node JS (Udemy)",
+        "Javascript (Udemy)"
       ]
     }
+  ],
+  "education": [{
+    "institution": "Centro Universitario De Monterrey(University of Guadalajara)",
+    "area": "Computer Engineer",
+    "endDate": "December 2018"
+  }],
+  "skills": {
+    "keywords": [
+      "React",
+      "Javascript",
+      "Swift",
+      "CSS3",
+      "ES6",
+      "HTML 5",
+      "Node Js",
+      "Webpack",
+      "Git",
+      "Express",
+      "REST APIs",
+      "Docker",
+      "Unix",
+      "React Native",
+      "Web Development",
+      "Mongo DB",
+      "MVC",
+      "Redux",
+      "OOP",
+      "Mobile Development",
+      "SQL",
+      "Babel"
+    ]
   }
-  
+}
