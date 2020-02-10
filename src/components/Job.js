@@ -21,7 +21,7 @@ const Job = ({ details, colors }) => {
         <ul className='job__list'>
           {details.highlights.map((key, index) => {
             return (
-              <li key={index} className='job__list__style'>
+              <li key={index} className='job__list'>
                 {details.highlights[index]}
               </li>
             );
