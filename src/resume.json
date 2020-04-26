@@ -6,7 +6,7 @@
     "phone": "+52 3311057425",
     "website": "linkedin.com/in/luism3861/",
     "summary": "I like to contribute in Open Source World!",
-    "skill": "Developer passionate about learning new technologies",
+    "skill": "Developer passionate to learning new technologies",
     "pdf": "resume.pdf"
   },
   "work": [{
@@ -26,7 +26,7 @@
       "secondPosition": "Software Engineer",
       "startDateSecond": "November 2019",
       "endDateSecond": "Current",
-      "summarySecond": "Device Inventory App",
+      "summarySecond": "Inventory Devices App",
       "highlightsSecond": "I Designed and Developed some User Interface Screens and Logic and Consume services in the back end,  We created an app with React Native for IOS Ipad for build the app I used Visual Studio App Center , I used react redux for state management and react hooks a new feature of react, for the back end I used Spring Boot and database SQlite, for the tasks and features I used Microsoft Team Foundation Server"
     },
     {
