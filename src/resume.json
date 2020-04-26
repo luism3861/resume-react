@@ -5,34 +5,39 @@
     "email": "luism3861@gmail.com",
     "phone": "+52 3311057425",
     "website": "linkedin.com/in/luism3861/",
-    "summary": "Developer appasionate to learning  new technologies",
-    "skill": "Developer",
+    "summary": "I like to contribute in Open Source World!",
+    "skill": "Developer passionate about learning new technologies",
     "pdf": "resume.pdf"
   },
   "work": [{
-      "company": "Mariachi IO SA DE CV",
+      "firstCompany": "Mariachi IO SA DE CV",
       "current": false,
       "position": "FrontEnd Engineer",
       "startDate": "April 2019",
       "endDate": "November 2019",
+      "firstProjectDate": "November 2019",
+      "finishProjectDate": "March 2020",
       "summary": "Finero Pay Project",
       "highlights": [
         "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux, Authentication, React Native, Express.",
-        "As a Front End Developer, I developed with my team a app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development"
-      ]
+        "As a Front End Developer, I developed with my team a app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development."
+      ],
+      "secondCompany": "Farmacias Guadalajara SA DE CV",
+      "secondPosition": "Software Engineer",
+      "startDateSecond": "November 2019",
+      "endDateSecond": "Current",
+      "summarySecond": "Device Inventory App",
+      "highlightsSecond": "I Designed and Developed some User Interface Screens and Logic and Consume services in the back end,  We created an app with React Native for IOS Ipad for build the app I used Visual Studio App Center , I used react redux for state management and react hooks a new feature of react, for the back end I used Spring Boot and database SQlite, for the tasks and features I used Microsoft Team Foundation Server"
     },
-
     {
-      "company": "Courses:",
       "current": false,
-      "position": "",
-      "website": "https://www.udacity.com",
       "startDate": "",
       "endDate": "",
       "highlights": [
         "Dev f Course",
         "Node JS (Udemy)",
-        "Javascript (Udemy)"
+        "Javascript (Udemy)",
+        "React Native (Udemy)"
       ]
     }
   ],
