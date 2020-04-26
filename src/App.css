@@ -105,7 +105,14 @@
 }
 
 .github__logo {
-  color: black
+  color: black;
+}
+
+.github__logo:hover {
+  color: black;
+  background: white;
+  cursor: pointer;
+  transform: scale(1.2);
 }
 
 .logo__container {
@@ -114,6 +121,8 @@
   justify-content: space-around;
   width: 8.75rem;
   margin-right: 3.438rem;
+  cursor: pointer;
+  transform: scale(1.2);
 }
 
 
