@@ -1,81 +1,81 @@
 {
-  "basics": {
-    "name": "Luis Medina",
-    "label": "Frontend Engineer",
-    "email": "luism3861@gmail.com",
-    "phone": "+52 3311057425",
-    "website": "linkedin.com/in/luism3861/",
-    "summary": "I like to contribute in Open Source World!",
-    "skill": "Developer passionate to learning new technologies",
-    "pdf": "resume.pdf"
-  },
-  "work": [{
-      "firstCompany": "Mariachi IO SA DE CV",
-      "current": false,
-      "position": "FrontEnd Engineer",
-      "startDate": "April 2019",
-      "endDate": "November 2019",
-      "firstProjectDate": "November 2019",
-      "finishProjectDate": "March 2020",
-      "summary": "Finero Pay Project",
-      "highlights": [
-        "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux, Authentication, React Native, Express.",
-        "As a Front End Developer, I developed with my team a app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development."
-      ],
-      "secondCompany": "Farmacias Guadalajara SA DE CV",
-      "secondPosition": "Software Engineer",
-      "startDateSecond": "November 2019",
-      "endDateSecond": "Current",
-      "summarySecond": "Inventory Devices App",
-      "highlightsSecond": "I Designed and Developed some User Interface Screens and Logic and Consume services in the back end,  We created an app with React Native for IOS Ipad and Android Tablet for build the app I used Visual Studio App Center , I used react redux for state management and react hooks a new feature of react, for the back end I used Spring Boot and database SQlite, for the tasks and features I used Microsoft Team Foundation Server"
+    "basics": {
+        "name": "Luis Medina",
+        "label": "Frontend Engineer",
+        "email": "luism3861@gmail.com",
+        "phone": "+52 3328096411",
+        "website": "linkedin.com/in/luism3861/",
+        "summary": "I like to contribute in Open Source World!",
+        "skill": "Developer passionate to learning new technologies",
+        "pdf": "resume.pdf"
     },
-    {
-      "current": false,
-      "startDate": "",
-      "endDate": "",
-      "highlights": [
-        "Dev f Course",
-        "Node JS (Udemy)",
-        "Javascript (Udemy)",
-        "React Native (Udemy)"
-      ]
+    "work": [{
+            "firstCompany": "Mariachi IO SA DE CV",
+            "current": false,
+            "position": "FrontEnd Engineer",
+            "startDate": "April 2019",
+            "endDate": "November 2019",
+            "firstProjectDate": "November 2019",
+            "finishProjectDate": "March 2020",
+            "summary": "Finero Pay Project",
+            "highlights": [
+                "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux, Authentication, React Native, Express.",
+                "As a Front End Developer, I developed with my team a app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development."
+            ],
+            "secondCompany": "Farmacias Guadalajara SA DE CV",
+            "secondPosition": "Software Engineer",
+            "startDateSecond": "November 2019",
+            "endDateSecond": "Current",
+            "summarySecond": "Inventory Devices App",
+            "highlightsSecond": "I Designed and Developed some User Interface Screens and Logic and Consume services in the back end,  We created an app with React Native for IOS Ipad and Android Tablet for build the app I used Visual Studio App Center , I used react redux for state management and react hooks a new feature of react, for the back end I used Spring Boot and database SQlite, for the tasks and features I used Microsoft Team Foundation Server"
+        },
+        {
+            "current": false,
+            "startDate": "",
+            "endDate": "",
+            "highlights": [
+                "Dev f Course",
+                "Node JS (Udemy)",
+                "Javascript (Udemy)",
+                "React Native (Udemy)"
+            ]
+        }
+    ],
+    "education": [{
+        "institution": "University of Guadalajara",
+        "area": "Computer Engineer",
+        "endDate": "December 2018"
+    }],
+    "skills": {
+        "keywords": [
+            "React",
+            "Javascript",
+            "Swift",
+            "iOS Development",
+            "CSS3",
+            "ES6",
+            "GraphQL",
+            "Apollo",
+            "HTML 5",
+            "Node Js",
+            "Webpack",
+            "Git",
+            "Express",
+            "REST APIs",
+            "Docker",
+            "Unix",
+            "React Native",
+            "Web Development",
+            "Mongo DB",
+            "MVC",
+            "Redux",
+            "OOP",
+            "Mobile Development",
+            "SQL",
+            "Babel",
+            "Virtualization",
+            "Operating Systems",
+            "Functional Programming"
+        ]
     }
-  ],
-  "education": [{
-    "institution": "University of Guadalajara",
-    "area": "Computer Engineer",
-    "endDate": "December 2018"
-  }],
-  "skills": {
-    "keywords": [
-      "React",
-      "Javascript",
-      "Swift",
-      "iOS Development",
-      "CSS3",
-      "ES6",
-      "GraphQL",
-      "Apollo",
-      "HTML 5",
-      "Node Js",
-      "Webpack",
-      "Git",
-      "Express",
-      "REST APIs",
-      "Docker",
-      "Unix",
-      "React Native",
-      "Web Development",
-      "Mongo DB",
-      "MVC",
-      "Redux",
-      "OOP",
-      "Mobile Development",
-      "SQL",
-      "Babel",
-      "Virtualization",
-      "Operating Systems",
-      "Functional Programming"
-    ]
-  }
 }
