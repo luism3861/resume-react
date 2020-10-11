@@ -33,6 +33,7 @@ const Job = ({ details, colors }) => {
           <div className='job__header'>
             <h3>{details.secondCompany}</h3>
             <h4>{details.secondPosition}</h4>
+            
           </div>
           <div>
             {details.startDateSecond} - {details.endDateSecond}

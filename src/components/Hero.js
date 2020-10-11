@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../logo.svg';
-import negro from '../luis.jpg';
+import negro from '../wicho.jpg';
 
 const Hero = ({ resumeObj }) => {
   return (
