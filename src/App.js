@@ -11,7 +11,6 @@ const App = ({ resumeJson }) => {
     <Router>
       <div className='app'>
         <Hero resumeObj={resumeJson} />
-
         <Route
           exact
           path={'/'}
@@ -25,11 +24,8 @@ const App = ({ resumeJson }) => {
         <Route
           exact
           path={'/education'}
-          render={() => (
-            <Education education={resumeJson.education[0]} />
-          )}
+          render={() => <Education education={resumeJson.education[0]} />}
         />
-
         <ul className='nav__container'>
           <nav className='nav'>
             <NavLink exact to={'/'} className='nav__btn'>

@@ -17,10 +17,10 @@
       "endDate": "November 2019",
       "firstProjectDate": "November 2019",
       "finishProjectDate": "Current",
-      "summary": "Finero Pay Project",
+      "summary": "Finero Pay App",
       "highlights": [
         "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux, Authentication, React Native, Express.",
-        "As a Front End Developer, I developed with my team a app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development."
+        "As a React Native Developer, I developed with my team a app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development."
       ],
       "secondCompany": "Farmacias Guadalajara SA DE CV",
       "secondPosition": "Software Engineer",
@@ -69,7 +69,6 @@
       "REST APIs",
       "Docker",
       "Unix",
-      "React Native",
       "Web Development",
       "Mongo DB",
       "MVC",

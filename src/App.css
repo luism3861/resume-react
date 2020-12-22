@@ -12,20 +12,18 @@
 /*
  * NAV
  */
-
 .nav__container {
-  position: absolute;
-  z-index: 100;
-  top: 0.625rem;
-
-  width: 100%;
-  list-style: none;
-  display: flex;
-  justify-content: center;
+    position: absolute;
+    z-index: 100;
+    top: 0.625rem;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: center;
 }
 
 .nav {
-  text-align: center;
+    text-align: center;
 }
 
 .nav__btn:hover {
@@ -60,17 +58,17 @@
  */
 
 .hero {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  margin: 0 auto;
-  padding: 0.938rem;
-  height: 100vh;
-  max-width: 22.5rem;
-  background: #fafafa;
-  text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 0.938rem;
+    height: 100vh;
+    max-width: 22.5rem;
+    background: #fafafa;
+    text-align: center;
 }
 
 
@@ -83,17 +81,13 @@
     font-size: 1.063rem;
 }
 
-.style__phone {
-    margin-top: 0.938rem;
-}
 
-.hero__link-container {
-    margin-top: 0.625rem;
-}
+
+
 
 .hero__text {
-    margin: 0.625rem 0;
     font-weight: 700;
+    margin-bottom: 1rem;
 }
 
 .hero__logo {
@@ -116,20 +110,21 @@
 }
 
 .logo__container {
-  margin-top: 1.875rem;
-  display: flex;
-  justify-content: space-around;
-  width: 7.75rem;
-  margin-right: 2.438rem;
-  cursor: pointer;
-  transform: scale(1.2);
+    display: flex;
+    justify-content: space-around;
+    width: 7.75rem;
+    margin-right: 2.438rem;
+    cursor: pointer;
+    transform: scale(1.2);
+    margin-bottom: 1rem;
 }
 
 .image__profile {
-  max-width: 47%;
-  border-radius: 50%;
-  margin: 1rem;
-  border: 0.188rem solid #999999;
+    max-width: 47%;
+    border-radius: 50%;
+    border: 0.188rem solid #999999;
+    margin-bottom: 1rem;
+
 }
 
 @media screen and (max-width:20rem) {
@@ -154,6 +149,7 @@
     from {
         transform: rotate(0deg);
     }
+
     to {
         transform: rotate(360deg);
     }
@@ -164,10 +160,12 @@
         opacity: 0.25;
         transform: scale3d(1, 1, 1);
     }
+
     50% {
         opacity: 1;
         transform: scale3d(1.15, 1.15, 1.15);
     }
+
     to {
         opacity: 0.25;
         transform: scale3d(1, 1, 1);
@@ -189,17 +187,15 @@
 /*
  * JOB
  */
-
 .job__container {
     display: flex;
     justify-content: center;
     padding: 3.125rem;
     align-items: flex-start;
     flex-direction: column;
-    flex: 1;
+    flex: 2;
     width: 100%;
     color: #fafafa;
-    background: #54e7c7;
 }
 
 .job__secondcontainer {
@@ -227,7 +223,6 @@
 /*
  * SKILLS
  */
-
 .skill {
     margin: 0.125rem 0.25rem 0.125rem 0;
     color: #fff;
@@ -254,7 +249,6 @@
 /*
  * EDUCATION
  */
-
 .education__header {
     color: #4a4a4a;
     text-align: center;
@@ -301,7 +295,6 @@
  * contact
  * education
  */
-
 .card__container {
     width: 60%;
 }
@@ -316,29 +309,14 @@
 }
 
 
-/*
- * HEADERS
- *
- * hero
- * skills-list
- * education
- * contact
- */
 
-.hero__header,
-.contact__header,
-.education__header,
-.skills-list__header {
-    margin-bottom: 1.25rem;
-}
+
 
 @media (max-width: 61.875rem) {
-    /*
-   * APP 
-   */
     .app {
         flex-direction: column;
     }
+
     /*
    * CONTAINERS
    *
@@ -350,6 +328,7 @@
     .card__container {
         width: 100vw;
     }
+
     .skills-list__container,
     .education__container,
     .contact__container {
@@ -364,6 +343,7 @@
         background-color: rgb(0, 0, 0);
         background-color: rgba(0, 0, 0, 0.4);
     }
+
     /*
    * MODALS
    *
@@ -382,30 +362,30 @@
 }
 
 @media (min-width: 61.938rem) {
-  .nav {
-    position: absolute;
-    left: calc(20% - 8.125rem);
-    text-align: left;
-  }
+    .nav {
+        position: absolute;
+        left: calc(20% - 8.125rem);
+        text-align: left;
+    }
 
-  .hero {
-    width: 40%;
-    height: 100vh;
-  }
+    .hero {
+        width: 40%;
+        height: 100vh;
+    }
 
 
 
-  .card__container {
-    height: 100vh;
-    overflow: auto;
-  }
+    .card__container {
+        height: 100vh;
+        overflow: auto;
+    }
 
-  .card__content {
-    min-height: 100vh;
-    overflow-y: auto;
-  }
+    .card__content {
+        min-height: 100vh;
+        overflow-y: auto;
+    }
 
-  /*
+    /*
    * CONTAINERS
    *
    * skills-list

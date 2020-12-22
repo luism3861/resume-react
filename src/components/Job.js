@@ -8,16 +8,13 @@ const Job = ({ details, colors }) => {
           <h3>{details.firstCompany}</h3>
           <h4>{details.position}</h4>
         </div>
-
         <div className='job__date'>
           {details.current
             ? `Current Job as of ${details.startDate}`
             : `${details.startDate}  ${details.endDate}`}
         </div>
         <br />
-
         <h3>{details.summary}</h3>
-
         <ul className='job__list'>
           {details.highlights.map((key, index) => {
             return (
@@ -43,6 +40,7 @@ const Job = ({ details, colors }) => {
           <ul className='job__list'>{details.highlightsSecond}</ul>
         </div>
       </div>
+      
     </div>
   );
 };
