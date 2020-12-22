@@ -15,17 +15,17 @@ const App = ({ resumeJson }) => {
         <Route
           exact
           path={'/'}
-          render={({ match }) => <Card resumeObj={resumeJson} />}
+          render={() => <Card resumeObj={resumeJson} />}
         />
         <Route
           exact
           path={'/skills'}
-          render={({ match }) => <SkillsList resumeObj={resumeJson} />}
+          render={() => <SkillsList resumeObj={resumeJson} />}
         />
         <Route
           exact
           path={'/education'}
-          render={({ match }) => (
+          render={() => (
             <Education education={resumeJson.education[0]} />
           )}
         />

@@ -9,7 +9,7 @@ const SkillsList = ({ resumeObj }) => {
         <br />
         <ul className='skills-list'>
           {resumeObj.skills.keywords.map((key, index) => (
-            <Skill key={key} details={resumeObj.skills.keywords[index]} />
+            <Skill key={index} details={resumeObj.skills.keywords[index]} />
           ))}
         </ul>
       </div>
