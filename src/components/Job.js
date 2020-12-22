@@ -33,16 +33,13 @@ const Job = ({ details, colors }) => {
           <div className='job__header'>
             <h3>{details.secondCompany}</h3>
             <h4>{details.secondPosition}</h4>
-            
           </div>
           <div>
-            {details.startDateSecond} - {details.endDateSecond}
+            {details.startDateSecondJob} {details.startDateSoncd}
           </div>
           <br />
           <h3>{details.summarySecond}</h3>
-          <div className='job__date'>
-            {details.firstProjectDate} - {details.finishProjectDate}
-          </div>
+          <div className='job__date'>{details.startDateSecond}</div>
           <ul className='job__list'>{details.highlightsSecond}</ul>
         </div>
       </div>

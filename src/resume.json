@@ -12,7 +12,7 @@
   "work": [{
       "firstCompany": "Mariachi IO SA DE CV",
       "current": false,
-      "position": "FrontEnd Engineer",
+      "position": "React Native Developer",
       "startDate": "April 2019",
       "endDate": "November 2019",
       "firstProjectDate": "November 2019",
@@ -24,7 +24,8 @@
       ],
       "secondCompany": "Farmacias Guadalajara SA DE CV",
       "secondPosition": "Software Engineer",
-      "startDateSecond": "November 2019",
+      "startDateSecondJob": "November 2019",
+      "startDateSecond": "January 2020",
       "endDateSecond": "Current",
       "summarySecond": "Inventory Devices App",
       "highlightsSecond": "Currently working, technologies I use React Native with CLI, Spring Boot, this app is for Ipad iOS and Tablet Android, for Continuous Deployment we use App Center"
@@ -50,7 +51,7 @@
   }],
   "skills": {
     "keywords": [
-      "React",
+      "React Native",
       "Javascript",
       "Swift",
       "iOS Development",
