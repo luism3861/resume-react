@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Luis Medina",
-    "label": "Frontend Engineer",
     "email": "luism3861@gmail.com",
     "phone": "+52 3328096411",
     "website": "linkedin.com/in/luism3861/",
@@ -23,7 +22,7 @@
         "As a React Native Developer, I developed with my team a app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development."
       ],
       "secondCompany": "Farmacias Guadalajara SA DE CV",
-      "secondPosition": "Software Engineer",
+      "secondPosition": "React Native Developer",
       "startDateSecondJob": "November 2019",
       "startDateSecond": "January 2020",
       "endDateSecond": "Current",

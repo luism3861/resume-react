@@ -48,6 +48,17 @@ const Hero = ({ resumeObj }) => {
         >
           <i className='fab fa-linkedin-in fa-2x'></i>
         </a>
+
+        <a
+          href='https://twitter.com/luism3861'
+          className='github__logo'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
+          <i className='fab fa-twitter fa-2x'></i>
+        </a>
+      
+        
       </div>
     </div>
   );
