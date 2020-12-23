@@ -11,20 +11,7 @@ const Hero = ({ resumeObj }) => {
       <h4 className='hero__subheader'>{resumeObj.basics.skill}</h4>
 
       <p className='style__summary'>{resumeObj.basics.summary}</p>
-      {resumeObj.basics.pdf ? (
-        <p className='hero__text'>
-          <a
-            href={resumeObj.basics.pdf}
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            PDF version
-          </a>{' '}
-          of the resume.
-        </p>
-      ) : (
-        ''
-      )}
+
       <h3 className='style__phone'>{resumeObj.basics.email}</h3>
       <h3 className='style__phone'>{resumeObj.basics.phone}</h3>
       <div className='hero__link-container'>
@@ -57,8 +44,6 @@ const Hero = ({ resumeObj }) => {
         >
           <i className='fab fa-twitter fa-2x'></i>
         </a>
-      
-        
       </div>
     </div>
   );
