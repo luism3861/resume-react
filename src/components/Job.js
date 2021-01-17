@@ -9,9 +9,7 @@ const Job = ({ details, colors }) => {
           <h4>{details.position}</h4>
         </div>
         <div className='job__date'>
-          {details.current
-            ? `Current Job as of ${details.startDate}`
-            : `${details.startDate}  ${details.endDate}`}
+          {details.startDate} {details.endDate}
         </div>
         <br />
         <h3>{details.summary}</h3>
@@ -32,7 +30,7 @@ const Job = ({ details, colors }) => {
             <h4>{details.secondPosition}</h4>
           </div>
           <div>
-            {details.startDateSecondJob} {details.startDateSoncd}
+            {details.startDateSecondJob} 
           </div>
           <br />
           <h3>{details.summarySecond}</h3>
@@ -40,7 +38,6 @@ const Job = ({ details, colors }) => {
           <ul className='job__list'>{details.highlightsSecond}</ul>
         </div>
       </div>
-      
     </div>
   );
 };
