@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, NavLink } from 'react-router-dom';
-import './App.css';
+import './css/App.css';
 import Hero from './components/Hero';
 import SkillsList from './components/SkillList';
 import Card from './components/Card';
