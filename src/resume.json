@@ -8,31 +8,31 @@
     "skill": "Software Engineer",
     "pdf": "resume.pdf"
   },
-  "work": [{
+  "work": [
+    {
       "firstCompany": "Mariachi IO SA DE CV",
       "current": false,
       "position": "React Native Developer",
-      "startDate": "April 2019",
+      "startDate": "April 2019 -",
       "endDate": "November 2019",
       "firstProjectDate": "November 2019",
       "finishProjectDate": "Current",
       "summary": "Finero Pay App",
       "highlights": [
-        "Improved client development workflow by incorpating modern tools like: React, Style Components, Redux, Authentication, React Native, Express.",
-        "As a React Native Developer, I developed with my team an app with react native for both platforms IOS and Android, I developed some parts of UI with functionality and some authentication with tokens, I implemented some services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and software development."
+        "Technologies we used React Native CLI for both platforms IOS and Android, I developed some parts of UI with functionality and authentication with tokens, I implemented web services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and Software Development."
       ],
       "secondCompany": "Farmacias Guadalajara SA DE CV",
       "secondPosition": "Software Engineer",
-      "startDateSecondJob": "November 2019",
-      "startDateSecond": "January 2020",
+      "startDateSecondJob": "November 2019 - Current",
+      "startDateSecond": "January 2020 - Current",
       "endDateSecond": "Current",
       "summarySecond": "Inventory Devices App",
-      "highlightsSecond": "Currently working, technologies We use React Native with CLI, Spring Boot, this app is for Ipad iOS and Tablet Android, for Continuous Deployment we use App Center"
+      "highlightsSecond": "Currently working, technologies We use React Native with CLI, Spring Boot, SQLite, this app is for Ipad iOS and Tablet Android, for Continuous Deployment we use App Center"
     },
     {
       "current": false,
       "startDate": "",
-      "firstCompany":"Courses:",
+      "firstCompany": "Courses:",
       "endDate": "",
       "highlights": [
         "Dev f Course",
@@ -43,11 +43,13 @@
       ]
     }
   ],
-  "education": [{
-    "institution": "University of Guadalajara",
-    "area": "Computer Engineer",
-    "endDate": "December 2018"
-  }],
+  "education": [
+    {
+      "institution": "University of Guadalajara",
+      "area": "Computer Engineer",
+      "endDate": "December 2018"
+    }
+  ],
   "skills": {
     "keywords": [
       "React Native",

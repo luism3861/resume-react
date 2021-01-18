@@ -8,7 +8,7 @@ const Job = ({ details, colors }) => {
           <h3>{details.firstCompany}</h3>
           <h4>{details.position}</h4>
         </div>
-        <div className='job__date'>
+        <div>
           {details.startDate} {details.endDate}
         </div>
         <br />
@@ -30,7 +30,7 @@ const Job = ({ details, colors }) => {
             <h4>{details.secondPosition}</h4>
           </div>
           <div>
-            {details.startDateSecondJob} 
+             {details.startDateSecondJob} 
           </div>
           <br />
           <h3>{details.summarySecond}</h3>
