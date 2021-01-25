@@ -16,14 +16,7 @@ const Hero = ({ resumeObj }) => {
         <img src={logo} className='hero__logo' alt='Made With React Logo' />
       </div>
       <div className='logo__container'>
-        <a
-          href='https://github.com/luism3861'
-          className='github__logo'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          <i className='fab fa-github fa-2x'></i>
-        </a>
+       
         <a
           href='https://linkedin.com/in/luism3861'
           className='github__logo'
@@ -31,6 +24,14 @@ const Hero = ({ resumeObj }) => {
           rel='noopener noreferrer'
         >
           <i className='fab fa-linkedin-in fa-2x'></i>
+        </a>
+        <a
+          href='https://github.com/luism3861'
+          className='github__logo'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
+          <i className='fab fa-github fa-2x'></i>
         </a>
         <a
           href='https://twitter.com/luism3861'
