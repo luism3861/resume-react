@@ -9,8 +9,7 @@ const Hero = ({ resumeObj }) => {
       <h1 className='hero__header'>{resumeObj.basics.name}</h1>
       <h4 className='hero__subheader'>{resumeObj.basics.skill}</h4>
       <p className='style__summary'>{resumeObj.basics.summary}</p>
-      <h3 className='style__phone'>{resumeObj.basics.email}</h3>
-      <h3 className='style__phone'>{resumeObj.basics.phone}</h3>
+      <h3 className='style__email'>{resumeObj.basics.email}</h3>
       <div className='hero__link-container'>
         made with
         <img src={logo} className='hero__logo' alt='Made With React Logo' />
@@ -19,11 +18,11 @@ const Hero = ({ resumeObj }) => {
        
         <a
           href='https://linkedin.com/in/luism3861'
-          className='github__logo'
+          className='linkedin__logo'
           target='_blank'
           rel='noopener noreferrer'
         >
-          <i className='fab fa-linkedin-in fa-2x'></i>
+          <i className='fab fa-linkedin-in fa-3x'></i>
         </a>
         <a
           href='https://github.com/luism3861'
@@ -31,15 +30,15 @@ const Hero = ({ resumeObj }) => {
           target='_blank'
           rel='noopener noreferrer'
         >
-          <i className='fab fa-github fa-2x'></i>
+          <i className='fab fa-github fa-3x'></i>
         </a>
         <a
           href='https://twitter.com/luism3861'
-          className='github__logo'
+          className='twitter__logo'
           target='_blank'
           rel='noopener noreferrer'
         >
-          <i className='fab fa-twitter fa-2x'></i>
+          <i className='fab fa-twitter fa-3x'></i>
         </a>
       </div>
     </div>

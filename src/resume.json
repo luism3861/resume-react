@@ -2,85 +2,9 @@
   "basics": {
     "name": "Luis Medina",
     "email": "luism3861@gmail.com",
-    "phone": "+52 3328096411",
     "website": "linkedin.com/in/luism3861/",
-    "summary": "I like to contribute in Open Source World!",
+    "summary": "Hello, I'm Luis. I do cross-platform mobile app development using React Native - that means mostly JavaScript, Java and Objective-C/Swift. I'm passionate contribute to open source.    ",
     "skill": "Software Engineer",
     "pdf": "resume.pdf"
-  },
-  "work": [
-    {
-      "firstCompany": "Mariachi IO SA DE CV",
-      "current": false,
-      "position": "React Native Developer",
-      "startDate": "April 2019 -",
-      "endDate": "November 2019",
-      "firstProjectDate": "November 2019",
-      "finishProjectDate": "Current",
-      "summary": "Finero Pay App",
-      "highlights": [
-        "Technologies we used React Native CLI for both platforms IOS and Android, I developed some parts of UI with functionality and authentication with tokens, I implemented web services in the front-end, for the tasks and features I used jira and bit bucket for manage agile and Software Development."
-      ],
-      "secondCompany": "Farmacias Guadalajara SA DE CV",
-      "secondPosition": "Software Engineer",
-      "startDateSecondJob": "November 2019 - Current",
-      "startDateSecond": "January 2020 - Current",
-      "endDateSecond": "Current",
-      "summarySecond": "Inventory Devices App",
-      "highlightsSecond": "Currently working, technologies We use React Native with CLI, Spring Boot, SQLite, this app is for Ipad iOS and Tablet Android, for Continuous Deployment we use App Center"
-    },
-    {
-      "current": false,
-      "startDate": "",
-      "firstCompany": "Courses:",
-      "endDate": "",
-      "highlights": [
-        "Dev f Course",
-        "Node JS (Udemy)",
-        "Javascript (Udemy)",
-        "React Native (Udemy)",
-        "Sean Allen iOS for beginners"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Guadalajara",
-      "area": "Computer Engineer",
-      "endDate": "December 2018"
-    }
-  ],
-  "skills": {
-    "keywords": [
-      "React Native",
-      "Javascript",
-      "Swift",
-      "iOS Development",
-      "Open Source Software",
-      "CSS3",
-      "ES6",
-      "GraphQL",
-      "Figma",
-      "Apollo",
-      "HTML 5",
-      "Node Js",
-      "Webpack",
-      "Git",
-      "Express",
-      "REST APIs",
-      "Docker",
-      "Unix",
-      "Web Development",
-      "Mongo DB",
-      "MVC",
-      "Redux",
-      "OOP",
-      "Mobile Development",
-      "SQLite ",
-      "Babel",
-      "Virtualization",
-      "Operating Systems",
-      "Functional Programming"
-    ]
   }
 }
