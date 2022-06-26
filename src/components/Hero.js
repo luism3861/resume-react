@@ -8,7 +8,7 @@ const Hero = ({ resumeObj }) => {
       <img src={avatar} alt='profile' className='image__profile' />
       <h1 className='hero__header'>{resumeObj.basics.name}</h1>
       <h4 className='hero__subheader'>{resumeObj.basics.skill}</h4>
-      <p className='style__summary'>{resumeObj.basics.summary}</p>
+      <p className='style__summary'>Hello, I'm Luis. I do cross-platform mobile app development using <span style={{color:'#06bcee',fontWeight: 'bold'}}>React Native</span>  that means mostly JavaScript, Java and Objective-C/Swift. I'm passionate contribute to open source. </p>
       <h3 className='style__email'>{resumeObj.basics.email}</h3>
       <div className='hero__link-container'>
         made with
