@@ -10,10 +10,6 @@ const Hero = ({ resumeObj }) => {
       <h4 className='hero__subheader'>{resumeObj.basics.skill}</h4>
       <p className='style__summary'>Hello, I'm Luis. I do cross-platform mobile app development using <span style={{color:'#06bcee',fontWeight: 'bold'}}>React Native</span>  that means mostly JavaScript, Java and Objective-C/Swift. I'm passionate contribute to open source. </p>
       <h3 className='style__email'>{resumeObj.basics.email}</h3>
-      <div className='hero__link-container'>
-        made with
-        <img src={logo} className='hero__logo' alt='Made With React Logo' />
-      </div>
       <div className='logo__container'>
        
         <a
