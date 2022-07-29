@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../logo.svg';
 import avatar from '../me.jpg';
 
 const Hero = ({ resumeObj }) => {
