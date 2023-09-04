@@ -27,14 +27,6 @@ const Hero = ({ resumeObj }) => {
         >
           <i className='fab fa-github fa-3x'></i>
         </a>
-        <a
-          href='https://twitter.com/luism3861'
-          className='twitter__logo'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          <i className='fab fa-twitter fa-3x'></i>
-        </a>
       </div>
     </div>
   );
