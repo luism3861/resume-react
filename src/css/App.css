@@ -112,11 +112,11 @@
 .logo__container {
     display: flex;
     justify-content: space-between;
-    width: 12rem;
+    width: 8rem;
     cursor: pointer;
     transform: scale(1.2);
     margin-bottom: 1rem;
-    margin-top: 1.5rem;
+    margin-top: 2.5rem;
 }
 
 .image__profile {
