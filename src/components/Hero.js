@@ -7,11 +7,11 @@ const Hero = ({ resumeObj }) => {
       <img src={avatar} alt='profile' className='image__profile' />
       <h1 className='hero__header'>{resumeObj.basics.name}</h1>
       <h4 className='hero__subheader'>{resumeObj.basics.skill}</h4>
-      <p className='style__summary'>I have experience in Security Software and Mobile Software</p>
-      <h1 className='style__summary_owasp'>Code verification according to OWASP guidelines</h1>
+      <p className='style__summary'>{resumeObj.basics.summary}</p>
+      <h1 className='style__summary_owasp'>{resumeObj.basics.summary_owasp}</h1>
       <h3 className='style__email'>{resumeObj.basics.email}</h3>
       <div className='logo__container'>
-       
+
         <a
           href='https://linkedin.com/in/luism3861'
           className='linkedin__logo'
