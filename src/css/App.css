@@ -129,11 +129,10 @@ li {
 }
 
 .image__profile {
-    max-width: 40%;
-    border-radius: 50%;
-    border: 5px solid #e8e6e3;
+    max-width: 34%;
+    border-radius: 29%;
+    border: 5px solid #b8b8b8;
     margin-bottom: 1rem;
-
 }
 
 @media screen and (max-width:20rem) {
