@@ -1,5 +1,5 @@
 import React from 'react';
-import avatar from '../me.png';
+import avatar from '../luism3861.jpeg';
 
 const Hero = ({ resumeObj }) => {
   return (
