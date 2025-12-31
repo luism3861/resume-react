@@ -5,7 +5,7 @@ import Hero from './components/Hero';
 const App = ({ resumeJson }) => {
   return (
       <div className='app'>
-        <Hero resumeObj={resumeJson}   />
+        <Hero resumeObj={resumeJson} />
       </div>
   );
 };
