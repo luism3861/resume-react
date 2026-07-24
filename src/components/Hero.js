@@ -6,12 +6,10 @@ const Hero = ({ resumeObj }) => {
     <div className='hero'>
       <img src={avatar} alt='profile' className='image__profile' />
       <h1 className='hero__header'>{resumeObj.basics.name}</h1>
-      <h4 className='hero__subheader'>{resumeObj.basics.skill}</h4>
-      <p className='style__summary'>{resumeObj.basics.summary}</p>
+      <h4 className='hero__subheader'>{resumeObj.basics.experience}</h4>
       <h1 className='style__summary_owasp'>{resumeObj.basics.summary_owasp}</h1>
       <h3 className='style__email'>{resumeObj.basics.email}</h3>
       <div className='logo__container'>
-
         <a
           href='https://linkedin.com/in/luism3861'
           className='linkedin__logo'

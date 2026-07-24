@@ -45,8 +45,8 @@ li {
 }
 
 .hero__subheader {
-    font-weight: 300;
-    font-size: 1.8rem;
+    font-weight: 800;
+    font-size: 1.3rem;
     color: #e8e6e3;
 }
 
@@ -60,12 +60,14 @@ li {
     font-size: 1.3rem;
     color: #e8e6e3;
     font-weight: 200;
-    margin-bottom: 1.7rem;
+    margin-bottom: 1.9rem;
+    margin-top: 1.3rem;
 }
 
 .style__email {
     font-size: 1.4rem;
     color: #e8e6e3;
+    font-weight: 300;
 }
 
 .hero__text {

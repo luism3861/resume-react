@@ -3,8 +3,7 @@
     "name": "Luis Medina",
     "email": "luism3861@gmail.com",
     "website": "linkedin.com/in/luism3861/",
-    "summary": "I have experience in Software Security, Mobile and Web development",
-    "summary_owasp": "Code verification according to OWASP guidelines",
-    "skill": "Security Software Engineer"
+    "summary_owasp": "Code verification according to OWASP Mobile and Web Top 10 guidelines.",
+    "experience": "Security Software Engineer | Mobile Application Security | Web Application Security"
   }
 }
